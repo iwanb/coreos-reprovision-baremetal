@@ -1,0 +1,9 @@
+#!ipxe
+
+show filename
+
+echo iPXE script!
+
+read
+
+
